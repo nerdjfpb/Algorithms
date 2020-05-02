@@ -19,5 +19,5 @@ Check the folders for algorithms codes!
 
 ## See Instagram Version
 
-- [Linear Search](https://www.instagram.com/nerd_jfpb/)
-- [Binary Search](https://www.instagram.com/nerd_jfpb/)
+- [Linear Search](https://www.instagram.com/p/B_pDyJ6AdJL/)
+- [Binary Search](https://www.instagram.com/p/B_rufJQgxW4/)
