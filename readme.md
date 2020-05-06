@@ -21,3 +21,7 @@ Check the folders for algorithms codes!
 
 - [Linear Search](https://www.instagram.com/p/B_pDyJ6AdJL/)
 - [Binary Search](https://www.instagram.com/p/B_rufJQgxW4/)
+- [Finding substring](https://www.instagram.com/p/B_ugFZyAXav/)
+- [Bubble Sort](https://www.instagram.com/p/B_w38fYgBr4/)
+- [Selection Sort](https://www.instagram.com/p/B_zebOFALIY/)
+- [Insertion Sort](https://www.instagram.com/p/B_2FTvUgrgr/)
